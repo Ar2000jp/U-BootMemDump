@@ -1,0 +1,17 @@
+Copyright (C) 2014 Ahmad Draidi
+E-Mail: ar2000jp@gmail.com
+Please see the source code file for license details.
+
+U-BootMemDump is a small program that makes a copy of a memory area
+    through the U-Boot shell.
+It's useful for dumping images of small memory chips of a platform, where the
+    installed U-Boot bootloader doesn't have any way of saving or sending
+    a memory area to disk or over network.
+
+Please note that this program doesn't implement enough reliability measures
+    to ensure a correct memory dump. All images must be verified through other
+    means. Like, re-downloading the dump file to RAM and doing a memory compare,
+    for example.
+
+For the latest version, please check out:
+    https://github.com/Ar2000jp/U-BootMemDump
