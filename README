@@ -2,6 +2,9 @@ Copyright (C) 2014 Ahmad Draidi
 E-Mail: ar2000jp@gmail.com
 Please see the source code file for license details.
 
+Note: this project has been superceded by U-BootMemOps.
+You can find it here: https://gitlab.com/ar2000jp/U-BootMemOps.git
+
 U-BootMemDump is a small program that makes a copy of a memory area
     through the U-Boot shell.
 It's useful for dumping images of small memory chips of a platform, where the
